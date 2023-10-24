@@ -1,0 +1,63 @@
+header{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(245, 196, 131);
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.grobal_menu_inner{
+    width: 50%;
+}
+
+.grobal_menu_list{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_image_inner{
+    margin-bottom: 10px;
+}
+
+.main_image{
+    width: 100%;
+}
+
+.main_image_cakelist{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_image_cake{
+    width: 30%;
+}
+
+.cake_image{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.cakelist_text{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.cakelist_text h1{
+    font-weight: bold;
+}
+
+footer{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background-color: rgb(245, 196, 131);
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
